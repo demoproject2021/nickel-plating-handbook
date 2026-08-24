@@ -1,8 +1,11 @@
 title: Nickel Plating Handbook
 description: Professional nickel electroplating operating, troubleshooting, current-density, pH, temperature, nickel strike, and process-control handbook maintained by NickelPlatingPro.
-url: ""
-baseurl: "/nickel-plating-handbook"
+
+url: "https://handbook.nickelplatingpro.com"
+baseurl: ""
+
 markdown: kramdown
 permalink: pretty
+
 exclude:
   - nickel-plating-handbook.zip
